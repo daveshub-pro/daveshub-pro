@@ -4,3 +4,10 @@
  - 🌱 Always trying to master a technology before getting to a new one
  - 🤝 Currently looking to contribute more to Open Source projects
  - 🚀 Woking hard to get improved and be a better developper everyday
+
+## My Contributions
+<!--
+STATS, CREDITS TO :
+Readme Stats (https://github.com/anuraghazra/github-readme-stats)
+-->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daveshub-pro&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
