@@ -7,7 +7,9 @@
 
 ## My Contributions
 <!--
-STATS, CREDITS TO :
+STATS AND CHART, CREDITS TO :
 Readme Stats (https://github.com/anuraghazra/github-readme-stats)
 -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daveshub-pro&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Most Used Languages Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=daveshub-pro&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
